@@ -1,0 +1,11 @@
+\venv
+foods.json
+*.env
+.env*
+*.sql
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
